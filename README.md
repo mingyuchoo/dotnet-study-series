@@ -16,7 +16,7 @@
   dotnet new console -lang C# -o MyCSharpApp
 ```
 
-## How to create a C# project
+## How to create a F# project
 
 ```bash
   dotnet new console -lang F# -o MyFSharpApp
