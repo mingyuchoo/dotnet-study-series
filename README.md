@@ -10,6 +10,12 @@
 
 - https://dotnet.microsoft.com/download/dotnet/9.0
 
+## How to install formatter
+
+```bash
+  dotnet tool install -g csharpier
+```
+
 ## How to create a C# project
 
 ```bash
