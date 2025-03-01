@@ -1,0 +1,7 @@
+* README
+** How to configure .NET kernel for Jupyter Notebook
+*** Install
+#+begin_src shell
+  $ dotnet tool install --global Microsoft.dotnet-interactive
+  $ dotnet-interactive jupyter install
+#+end_src
